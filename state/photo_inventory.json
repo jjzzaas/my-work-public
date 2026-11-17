@@ -850,15 +850,20 @@
   "id": "1zdxY8p63i0691aALd6qgK3oWDOwcrdOF",
   "uploaded": "2026-11-06",
   "size": 723536,
-  "status": "ok_unused",
-  "note": "사용 가능 — 가게 근처 길고양이. 감성/가벼운 농담용(\"동네 고양이도 들르는 집\"). 음식 먹는다는 표현 금지"
+  "status": "used",
+  "note": "사용 가능 — 가게 근처 길고양이. 감성/가벼운 농담용(\"동네 고양이도 들르는 집\"). 음식 먹는다는 표현 금지",
+  "used_on": [
+   "2026-11-17"
+  ],
+  "category": "env(가게 근처 길고양이 — 위쪽 통은 확대로 빼기)"
  },
  "20231220_200346_IMG_2657.JPG": {
   "id": "1J3ZUnJexihOKqRZyDDNRGsTxXTY9cQeF",
   "uploaded": "2026-11-06",
   "size": 3194768,
-  "status": "ok_unused",
-  "note": "사용 가능 — 단체손님 분위기용(점주 확인 2026-11-07). 예: \"오늘도 북적북적\", \"모임은 두거리에서\". 과음 강조나 술 권하는 문구는 피함. 다른 손님 얼굴·신체가 보이면 §2-3대로 처리"
+  "status": "excluded",
+  "note": "사용 가능 — 단체손님 분위기용(점주 확인 2026-11-07). 예: \"오늘도 북적북적\", \"모임은 두거리에서\". 과음 강조나 술 권하는 문구는 피함. 다른 손님 얼굴·신체가 보이면 §2-3대로 처리 / 2026-11-17 보류: 빈 소주병이 화면 대부분(술 권하는 느낌)이고 다 먹은 그릇이 보여 §2-3상 쓰지 않음. 점주가 원하면 다시 검토",
+  "category": "store(단체석)"
  },
  "20231115_200315_IMG_2477.JPG": {
   "id": "1cg6zz1kBWsRIBYy6A_bNXcdSSzDKSiIw",
@@ -1301,15 +1306,21 @@
   "id": "1ptTeJhYE1IB01knvekSrbwu5ToZ4JxyR",
   "uploaded": "2026-11-04",
   "size": 467095,
-  "status": "ok_unused",
-  "category": "food(전골 위 샤브 고기)"
+  "status": "used",
+  "category": "food(전골 위 샤브 고기)",
+  "used_on": [
+   "2026-11-17"
+  ]
  },
  "IMG_20240518_162709_049.jpg": {
   "id": "1ip09fOZwWlsixPsqsxtfWdYRhSYQdNQX",
   "uploaded": "2026-11-04",
   "size": 457173,
-  "status": "ok_unused",
-  "category": "food(전골 냄비들 위에서)"
+  "status": "used",
+  "category": "food(전골 냄비들 위에서)",
+  "used_on": [
+   "2026-11-17"
+  ]
  },
  "IMG_20240519_163438_864.jpg": {
   "id": "1kY09VpdF4bds71atz9D9l4uBbR4hfimy",
@@ -1376,8 +1387,11 @@
   "id": "119EJ-69BtUO8rGu1xo4XrgMEhXTuxCiM",
   "uploaded": "2026-11-0x",
   "size": 423830,
-  "status": "ok_unused",
-  "category": "food(갈비·두부·버섯 넣은 전골 — 전골갈비/특전골로 보임, 메뉴명은 쓰지 말 것)"
+  "status": "used",
+  "category": "food(갈비·두부·버섯 넣은 전골 — 전골갈비/특전골로 보임, 메뉴명은 쓰지 말 것)",
+  "used_on": [
+   "2026-11-17"
+  ]
  },
  "IMG_20241226_185805_977.webp": {
   "id": "1A_zIjQaf1d3INOl2c1SfNZC6UIwC8DIb",
