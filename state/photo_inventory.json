@@ -1381,7 +1381,8 @@
   "id": "1-EauvpgHd1RXhrmBBHtEmQbhiORrCeOG",
   "uploaded": "2026-11-0x",
   "size": 336503,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(샤브 가득 올린 전골)"
  },
  "IMG_20241226_185539_945.webp": {
   "id": "119EJ-69BtUO8rGu1xo4XrgMEhXTuxCiM",
@@ -1397,7 +1398,8 @@
   "id": "1A_zIjQaf1d3INOl2c1SfNZC6UIwC8DIb",
   "uploaded": "2026-11-0x",
   "size": 340170,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(샤브 올린 전골, 버섯)"
  },
  "20261104_171456.jpg": {
   "id": "12kqvVfzqNiTlpPrxOXkpX64xbtEI-8zH",
@@ -1412,7 +1414,8 @@
   "id": "1mV859RvtCHwKzEEfrIz8ZGUaitqEIJcx",
   "uploaded": "2026-11-0x",
   "size": 2441365,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(뚝배기 우신탕 끓는 중)"
  },
  "20261104_171509.jpg": {
   "id": "1GrsgPAn1_aof-JBKPSD3bIQD5LYd72GU",
@@ -1436,31 +1439,41 @@
   "id": "1qT8xtkVwEJLO9tazftHdbH0Q7yRGUZR_",
   "uploaded": "2026-11-0x",
   "size": 165923,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "screenshot(네이버 홍보 이미지)",
+  "note": "네이버에서 캡처한 메뉴 홍보 사진(스튜디오 촬영, 화면 비율 늘어남) 5장 — 왼쪽 아래에 'AI로 생성한 콘텐츠'로 보이는 표시가 있어요. 우리 매장에서 찍은 사진이 아니라서 릴스에는 안 쓰는 게 좋겠는데, 써도 될까요? 안 쓰면 드라이브 휴지통으로 옮길게요."
  },
  "Screenshot_20251210_115147_NAVER_copy_1280x943(1)_copy_800x1280.jpg": {
   "id": "1IxBcNBZ5Huqb4vFONLSzfymil6Cc9emP",
   "uploaded": "2026-11-0x",
   "size": 219085,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "screenshot(네이버 홍보 이미지)",
+  "note": "네이버에서 캡처한 메뉴 홍보 사진(스튜디오 촬영, 화면 비율 늘어남) 5장 — 왼쪽 아래에 'AI로 생성한 콘텐츠'로 보이는 표시가 있어요. 우리 매장에서 찍은 사진이 아니라서 릴스에는 안 쓰는 게 좋겠는데, 써도 될까요? 안 쓰면 드라이브 휴지통으로 옮길게요."
  },
  "Screenshot_20251210_115124_NAVER_copy_1279x943(1)_copy_800x1280.jpg": {
   "id": "1hHqjAhMrKhaHG-vFWBORLpWL2MIcseyG",
   "uploaded": "2026-11-0x",
   "size": 186082,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "screenshot(네이버 홍보 이미지)",
+  "note": "네이버에서 캡처한 메뉴 홍보 사진(스튜디오 촬영, 화면 비율 늘어남) 5장 — 왼쪽 아래에 'AI로 생성한 콘텐츠'로 보이는 표시가 있어요. 우리 매장에서 찍은 사진이 아니라서 릴스에는 안 쓰는 게 좋겠는데, 써도 될까요? 안 쓰면 드라이브 휴지통으로 옮길게요."
  },
  "Screenshot_20251210_115132_NAVER_copy_1279x943(1)_copy_800x1280.jpg": {
   "id": "1hM4Hb07hefYnKtT4EiXzuGhsbpvvwooo",
   "uploaded": "2026-11-0x",
   "size": 222344,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "screenshot(네이버 홍보 이미지)",
+  "note": "네이버에서 캡처한 메뉴 홍보 사진(스튜디오 촬영, 화면 비율 늘어남) 5장 — 왼쪽 아래에 'AI로 생성한 콘텐츠'로 보이는 표시가 있어요. 우리 매장에서 찍은 사진이 아니라서 릴스에는 안 쓰는 게 좋겠는데, 써도 될까요? 안 쓰면 드라이브 휴지통으로 옮길게요."
  },
  "Screenshot_20251210_115117_NAVER_copy_1279x943(1)_copy_800x1280.jpg": {
   "id": "1aD_74dUdZJy1DVA8QQTAV32z4_FEHoK3",
   "uploaded": "2026-11-0x",
   "size": 196787,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "screenshot(네이버 홍보 이미지)",
+  "note": "네이버에서 캡처한 메뉴 홍보 사진(스튜디오 촬영, 화면 비율 늘어남) 5장 — 왼쪽 아래에 'AI로 생성한 콘텐츠'로 보이는 표시가 있어요. 우리 매장에서 찍은 사진이 아니라서 릴스에는 안 쓰는 게 좋겠는데, 써도 될까요? 안 쓰면 드라이브 휴지통으로 옮길게요."
  },
  "20261111_112944.jpg": {
   "id": "1UvDl0rtEQyexZMDas1g2fSwbu74ufiHg",
