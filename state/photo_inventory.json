@@ -63,9 +63,12 @@
   "id": "1_W5tY5b9wZmxULH6EiWxeArPLI4C91WG",
   "uploaded": "2026-11-11",
   "size": 3092700,
-  "status": "ok_unused",
+  "status": "used",
   "note": "사용 가능(점주 확인 2026-11-12) — 애니워터 정수필터 위생 업소 안내판, 깨끗한 물·위생 강조용. 멘트 방향: '정수필터로 거른 깨끗한 물로 끓입니다', '물 한 잔까지 깨끗하게 — 위생 업소 인증'",
-  "category": "store(정수필터 위생 업소 안내판)"
+  "category": "store(정수필터 위생 업소 안내판)",
+  "used_on": [
+   "2026-11-18"
+  ]
  },
  "20261111_102533.jpg": {
   "id": "1N4fC7FA_syM1KvMstEG2dbOtUL2FuW5J",
@@ -1258,8 +1261,9 @@
   "id": "1Z6teojbZEk73BL6tOaKMNGMuseTGqch2",
   "uploaded": "2026-11-04",
   "size": 70036,
-  "status": "ok_unused",
-  "category": "food(전골 냄비들, 당근·버섯·고기 — 1080px)"
+  "status": "excluded",
+  "category": "food(전골 냄비들, 당근·버섯·고기 — 1080px)",
+  "note": "당근 보임 — 오산점은 당근 안 씀(점주 2026-11-17). 쓰지 않음"
  },
  "1716016030476.jpg": {
   "id": "1OsUuuXPm7HbK8KxoW1LmhMd6FWjFmqWq",
@@ -1286,7 +1290,8 @@
   "category": "food(전골 냄비들, 당근·버섯)",
   "used_on": [
    "2026-11-14"
-  ]
+  ],
+  "note": "당근 보임(오산점은 당근 안 씀) — 이미 사용됨, 재사용 금지"
  },
  "IMG_20240518_161646_493.jpg": {
   "id": "1VOjlaMFAmv80Oc35m53KEy5gIkJa_Ta0",
@@ -1320,7 +1325,8 @@
   "category": "food(전골 냄비들 위에서)",
   "used_on": [
    "2026-11-17"
-  ]
+  ],
+  "note": "당근 보임(오산점은 당근 안 씀) — 이미 사용됨, 재사용 금지"
  },
  "IMG_20240519_163438_864.jpg": {
   "id": "1kY09VpdF4bds71atz9D9l4uBbR4hfimy",
@@ -1398,8 +1404,11 @@
   "id": "1A_zIjQaf1d3INOl2c1SfNZC6UIwC8DIb",
   "uploaded": "2026-11-0x",
   "size": 340170,
-  "status": "ok_unused",
-  "category": "food(샤브 올린 전골, 버섯)"
+  "status": "used",
+  "category": "food(샤브 올린 전골, 버섯)",
+  "used_on": [
+   "2026-11-18"
+  ]
  },
  "20261104_171456.jpg": {
   "id": "12kqvVfzqNiTlpPrxOXkpX64xbtEI-8zH",
@@ -1667,9 +1676,12 @@
   "id": "1yTQr3CFQ3IIxJ_bECmpuahoFaVf5BdT2",
   "uploaded": "2026-11-13",
   "size": 3442694,
-  "status": "ok_unused",
+  "status": "used",
   "note": "사용 가능(점주 확인 2026-11-14) — 오징어젓갈. 두거리만의 비법으로 새로 양념, 손님들에게 인기 많음. 멘트 방향: '두거리 비법 양념 오징어젓갈', '청양고추 듬뿍, 인기 오징어젓갈'. 판매·무료 제공 여부는 확인 안 됨 → 쓰지 않음",
-  "category": "side(오징어젓갈)"
+  "category": "side(오징어젓갈)",
+  "used_on": [
+   "2026-11-18"
+  ]
  },
  "20261112_184708.jpg": {
   "id": "1iPpnnQHlUOMmt-w60HKChsBBFC2xXDfy",
@@ -1721,5 +1733,43 @@
   "status": "ok_unused",
   "note": "사용 가능(점주 확인 2026-11-14) — 오징어젓갈. 두거리만의 비법으로 새로 양념, 손님들에게 인기 많음. 멘트 방향: '두거리 비법 양념 오징어젓갈', '청양고추 듬뿍, 인기 오징어젓갈'. 판매·무료 제공 여부는 확인 안 됨 → 쓰지 않음",
   "category": "side(오징어젓갈)"
+ },
+ "20261115_170544.jpg": {
+  "id": "114viUf-SE6rxvz5p9FEtsKkq2G_mrnxF",
+  "uploaded": "2026-11-17",
+  "size": 3848873,
+  "status": "ok_unused",
+  "category": "kitchen/ingredient(고사리)"
+ },
+ "20261115_170547.jpg": {
+  "id": "10y7qo0zncPJh5L5qVlYN42Yu-qwcyPaL",
+  "uploaded": "2026-11-17",
+  "size": 3763047,
+  "status": "ok_unused",
+  "category": "kitchen/ingredient(고사리)"
+ },
+ "20261115_170548.jpg": {
+  "id": "1ahizxnG_Cy102SksGO-UojC5s1pkqSDL",
+  "uploaded": "2026-11-17",
+  "size": 3591222,
+  "status": "used",
+  "category": "kitchen/ingredient(고사리)",
+  "used_on": [
+   "2026-11-18"
+  ]
+ },
+ "20261115_170550.jpg": {
+  "id": "1epBrURR6qfppoC73c6Qhiy7ZeaU9ux5F",
+  "uploaded": "2026-11-17",
+  "size": 3143622,
+  "status": "ok_unused",
+  "category": "kitchen/ingredient(고사리)"
+ },
+ "20261115_170556.jpg": {
+  "id": "1YID7BRQSxk3paDHjTo-jAjI7dHi34RWB",
+  "uploaded": "2026-11-17",
+  "size": 3130972,
+  "status": "excluded",
+  "category": "kitchen/ingredient(고사리) — 흐림, 쓰지 말 것"
  }
 }
