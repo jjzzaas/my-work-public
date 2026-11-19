@@ -1387,8 +1387,11 @@
   "id": "1-EauvpgHd1RXhrmBBHtEmQbhiORrCeOG",
   "uploaded": "2026-11-0x",
   "size": 336503,
-  "status": "ok_unused",
-  "category": "food(샤브 가득 올린 전골)"
+  "status": "used",
+  "category": "food(샤브 가득 올린 전골)",
+  "used_on": [
+   "2026-11-19"
+  ]
  },
  "IMG_20241226_185539_945.webp": {
   "id": "119EJ-69BtUO8rGu1xo4XrgMEhXTuxCiM",
@@ -1423,8 +1426,11 @@
   "id": "1mV859RvtCHwKzEEfrIz8ZGUaitqEIJcx",
   "uploaded": "2026-11-0x",
   "size": 2441365,
-  "status": "ok_unused",
-  "category": "food(뚝배기 우신탕 끓는 중)"
+  "status": "used",
+  "category": "food(뚝배기 우신탕 끓는 중)",
+  "used_on": [
+   "2026-11-19"
+  ]
  },
  "20261104_171509.jpg": {
   "id": "1GrsgPAn1_aof-JBKPSD3bIQD5LYd72GU",
@@ -1507,8 +1513,11 @@
   "id": "1B3IGBHA-nf8eBvxrlZRErry02VrdZ3Bx",
   "uploaded": "2026-11-11",
   "size": 3235761,
-  "status": "ok_unused",
-  "category": "side(깍두기, 가까이)"
+  "status": "used",
+  "category": "side(깍두기, 가까이)",
+  "used_on": [
+   "2026-11-19"
+  ]
  },
  "20261111_134435.jpg": {
   "id": "1Fi-agnmOF7_W_HgB200pKwtyd4NeqCG9",
@@ -1650,7 +1659,7 @@
   "uploaded": "2026-11-13",
   "size": 2765894,
   "status": "ok_unused",
-  "note": "사용 가능(점주 확인 2026-11-14) — 포장용 용기(택배 아님). 멘트 방향: '한 그릇씩 정성껏 포장', '포장도 됩니다'. '택배'라고 쓰지 않음",
+  "note": "사용 가능(점주 확인 2026-11-14) — 포장용 용기(택배 아님). 멘트 방향: '한 그릇씩 정성껏 포장', '포장도 됩니다'. '택배'라고 쓰지 않음 / 뒤에 POS 화면 보임 — 아래쪽만 확대해서 쓸 것",
   "category": "store/pack(포장 용기)"
  },
  "20261112_175758.jpg": {
@@ -1698,9 +1707,12 @@
   "id": "17ymUuiQw5QQNwQm6A1jPvitEVK4rEO9n",
   "uploaded": "2026-11-13",
   "size": 2791455,
-  "status": "ok_unused",
+  "status": "used",
   "note": "사용 가능(점주 확인 2026-11-14) — 날이 추워지면 3년째 하는 미역국 선물. 남은 육수를 버리지 않고 미역국을 끓여 손님께 드림. 무조건 드리는 게 아님 → '모든 손님께', '드립니다'처럼 약속하는 표현 금지. 예: '육수가 남는 날엔 미역국을 끓여 선물로', '추운 날의 작은 선물'",
-  "category": "food/gift(미역국 선물)"
+  "category": "food/gift(미역국 선물)",
+  "used_on": [
+   "2026-11-19"
+  ]
  },
  "20261112_175806.jpg": {
   "id": "1-BN-iCN8AwitwAoyuRjkCJnWEd4gyogm",
