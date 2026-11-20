@@ -107,7 +107,8 @@
   "uploaded": "2026-11-11",
   "size": 2628292,
   "status": "ok_unused",
-  "category": "side(백김치)"
+  "category": "side(백김치)",
+  "note": "백김치 안에 채 썬 주황색(당근으로 보임) — 오산점 당근 안 씀 규칙상 보류. 점주 확인 전 쓰지 않음"
  },
  "20261111_102149.jpg": {
   "id": "15Wdex-6phq5bOjOpwQovQ1mN7519QIrX",
@@ -1346,8 +1347,11 @@
   "id": "1907rcon2-5M2BJJx2zEdzGYR9qLe4XaJ",
   "uploaded": "2026-11-0x",
   "size": 115695,
-  "status": "ok_unused",
-  "category": "food(갈비탕 갈비 들어올림 — 640px)"
+  "status": "used",
+  "category": "food(갈비탕 갈비 들어올림 — 640px)",
+  "used_on": [
+   "2026-11-20"
+  ]
  },
  "1735206463557.jpg": {
   "id": "1zWltcnpBqckXjKGF2RC0Wa1y5Rdbh8BY",
@@ -1380,8 +1384,11 @@
   "id": "1P7REy8RmvgkMZ19mZnX_MEZ165f0oCfQ",
   "uploaded": "2026-11-0x",
   "size": 534716,
-  "status": "ok_unused",
-  "category": "food(샤브 고기 가득 올린 전골, 가까이)"
+  "status": "used",
+  "category": "food(샤브 고기 가득 올린 전골, 가까이)",
+  "used_on": [
+   "2026-11-20"
+  ]
  },
  "1735206504532.jpg": {
   "id": "1-EauvpgHd1RXhrmBBHtEmQbhiORrCeOG",
@@ -1601,8 +1608,11 @@
   "id": "1fGdh6h2MeFYYZN4WrlztDeywgol380cX",
   "uploaded": "2026-11-12",
   "size": 4255893,
-  "status": "ok_unused",
-  "category": "kitchen/boricha(볶은 보리, 볶음솥 안)"
+  "status": "used",
+  "category": "kitchen/boricha(볶은 보리, 볶음솥 안)",
+  "used_on": [
+   "2026-11-20"
+  ]
  },
  "20261112_172246.jpg": {
   "id": "1ppsilWkbnFMd01u_y3DC8yxkFeSd7dwg",
@@ -1750,8 +1760,11 @@
   "id": "114viUf-SE6rxvz5p9FEtsKkq2G_mrnxF",
   "uploaded": "2026-11-17",
   "size": 3848873,
-  "status": "ok_unused",
-  "category": "kitchen/ingredient(고사리)"
+  "status": "used",
+  "category": "kitchen/ingredient(고사리)",
+  "used_on": [
+   "2026-11-20"
+  ]
  },
  "20261115_170547.jpg": {
   "id": "10y7qo0zncPJh5L5qVlYN42Yu-qwcyPaL",
