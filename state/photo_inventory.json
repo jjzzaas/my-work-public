@@ -1280,8 +1280,9 @@
   "id": "1deJBvpGQzq9jNnvbV_-K0oOGq9CVayHM",
   "uploaded": "2026-11-04",
   "size": 765515,
-  "status": "ok_unused",
-  "category": "food(전골 위 샤브 고기)"
+  "status": "excluded",
+  "category": "food(전골 위 샤브 고기)",
+  "note": "당근 보임(2026-11-21 확인) — 사용 안 함"
  },
  "1716016026487.jpg": {
   "id": "1FiVWNR-B2EPgBfqemPnKBmdrMsyGigsz",
@@ -1530,8 +1531,11 @@
   "id": "1Fi-agnmOF7_W_HgB200pKwtyd4NeqCG9",
   "uploaded": "2026-11-11",
   "size": 3315504,
-  "status": "ok_unused",
-  "category": "side(깍두기, 비스듬히)"
+  "status": "used",
+  "category": "side(깍두기, 비스듬히)",
+  "used_on": [
+   "2026-11-21"
+  ]
  },
  "20261111_184118.jpg": {
   "id": "11Ha9nSsxynMrn8GwfgBPE0NaN5724PTV",
@@ -1796,5 +1800,49 @@
   "size": 3130972,
   "status": "excluded",
   "category": "kitchen/ingredient(고사리) — 흐림, 쓰지 말 것"
+ },
+ "20261120_114118.jpg": {
+  "id": "1EQAPJ2cfWMsqMlANjyf6dSVrTlEF9o6y",
+  "uploaded": "2026-11-20",
+  "size": 3108992,
+  "status": "used",
+  "category": "food/prep(뚝배기 줄 — 팽이·새송이·대추, 당근 없음)",
+  "used_on": [
+   "2026-11-21"
+  ]
+ },
+ "20261120_114114.jpg": {
+  "id": "1Kiym945pPeA-6DKKZ_6LC3rzXhlCIc8J",
+  "uploaded": "2026-11-20",
+  "size": 3580935,
+  "status": "ok_unused",
+  "category": "equipment(1인 압력 솥밥 김, 오른쪽 아래 대파통)"
+ },
+ "20261120_114122.jpg": {
+  "id": "1hOsFtre-5QfPaKkbp_dZP770zvZwWK5u",
+  "uploaded": "2026-11-20",
+  "size": 3661470,
+  "status": "used",
+  "category": "equipment(1인 압력 솥밥 김, 위쪽 뒤 비닐·상자 — 아래쪽 확대)",
+  "used_on": [
+   "2026-11-21"
+  ]
+ },
+ "20261120_171742.jpg": {
+  "id": "1l3636YNjIFiUGzEAZDgw-4T1kB0nJqWB",
+  "uploaded": "2026-11-20",
+  "size": 4678171,
+  "status": "ok_unused",
+  "category": "side(오징어젓갈 클로즈업)"
+ },
+ "20261120_171747.jpg": {
+  "id": "1ayGhXN8-NKmeKs6Lq7m7oVJCQ3DyMQD4",
+  "uploaded": "2026-11-20",
+  "size": 4309220,
+  "status": "used",
+  "category": "side(오징어젓갈 클로즈업, 붉은색)",
+  "used_on": [
+   "2026-11-21"
+  ]
  }
 }
