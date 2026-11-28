@@ -474,7 +474,9 @@
   "id": "1rdDXIFpmKhWbtQVDmYYbl7Pj0pEdG8co",
   "uploaded": "2026-11-07",
   "size": 1498668,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(맑은 탕 클로즈업 — 대파 듬뿍·팽이·대추·산청목)",
+  "note": "갈비탕/우신탕 단정 금지, '맑은 국물'로"
  },
  "20261107_195928.jpg": {
   "id": "1qL1FEbOEqvfrJniBouk3Q4foOnEFA_Rw",
@@ -648,7 +650,8 @@
   "id": "1fqoKwB1lfi88n5OQGt20qzEkQXZHaivp",
   "uploaded": "2026-11-07",
   "size": 2357135,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(전골 — 갈비·두부·새송이·느타리·팽이·목이, 끓기 전)"
  },
  "20261107_175320.jpg": {
   "id": "1gNrU7huAAjM66slespp7192Xy6AkX4ru",
@@ -750,7 +753,9 @@
   "id": "1UebIgSYG-bgzmV80uiZxNqM-PskvKlFl",
   "uploaded": "2026-11-07",
   "size": 3032345,
-  "status": "unreviewed"
+  "status": "pending",
+  "category": "store(볶은보리 5,000원 판매 안내판 + 보리 봉지 선반)",
+  "note": "오른쪽 아래 계산대/영수증기 → 왼쪽만 확대. 판매 문구 사용 여부 점주 확인 필요"
  },
  "20261107_172822.jpg": {
   "id": "1C7xyXuDkKOUXj5Hh0sbuE6IgJ5UrvR8A",
@@ -935,7 +940,9 @@
   "id": "1DcM9bn_-WRCTeqKITyvtD72wulVolQXW",
   "uploaded": "2026-11-06",
   "size": 2752530,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(우신찜으로 보임 — 갈비·대파·부추·마늘, 빨간 양념)",
+  "note": "재료가 우신찜과 일치. 메뉴명은 '찜'까지만 안전"
  },
  "20261106_140321.jpg": {
   "id": "1fDYIeX0vOew1MSQFND5ULWnNKdV02loZ",
@@ -1147,7 +1154,9 @@
   "id": "15DDZNlPHO9m6GPne1-T744_ENA2KZMkn",
   "uploaded": "2026-11-06",
   "size": 2464890,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "food(전골 준비 — 갈비·양지·두부·버섯·대추·산청목)",
+  "note": "특전골로 보이나 메뉴명 단정 금지"
  },
  "20261106_115558.jpg": {
   "id": "1ZofqYWxzhSq7-j7Hkhy5xjUHkewyj9es",
@@ -1219,7 +1228,9 @@
   "id": "1Ploj0qW-mh0UuD-cKHcDvv-G0wW_2B-l",
   "uploaded": "2026-11-06",
   "size": 2306057,
-  "status": "unreviewed"
+  "status": "ok_unused",
+  "category": "side(백김치, 두거리 로고 그릇 클로즈업)",
+  "note": "완제품 백김치 — '직접 담근' 금지"
  },
  "20261106_114254.jpg": {
   "id": "18pMYXjOeERiiTYcrPxIEC6mRKJUj7VZd",
