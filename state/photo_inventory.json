@@ -1279,28 +1279,28 @@
   "id": "1Z6teojbZEk73BL6tOaKMNGMuseTGqch2",
   "uploaded": "2026-11-04",
   "size": 70036,
-  "status": "excluded",
+  "status": "ok_unused",
   "category": "food(전골 냄비들, 당근·버섯·고기 — 1080px)",
-  "note": "당근 보임 — 오산점은 당근 안 씀(점주 2026-11-17). 쓰지 않음"
+  "note": "당근 보임 — 오산점은 당근 안 씀(점주 2026-11-17). 쓰지 않음 / 당근 사진 사용 허용(점주 2026-11-28) — 문구에 당근 언급 금지"
  },
  "1716016030476.jpg": {
   "id": "1OsUuuXPm7HbK8KxoW1LmhMd6FWjFmqWq",
   "uploaded": "2026-11-04",
   "size": 771359,
-  "status": "excluded",
+  "status": "used",
   "used_on": [
    "2026-11-12"
   ],
   "category": "food(전골 냄비 여러 개, 버섯·고기·채소)",
-  "note": "당근 많이 보임(2026-11-24 확인) — 재사용 금지"
+  "note": "당근 많이 보임(2026-11-24 확인) — 재사용 금지 / 당근 사진 사용 허용(점주 2026-11-28) — 문구에 당근 언급 금지"
  },
  "1716016034379.jpg": {
   "id": "1deJBvpGQzq9jNnvbV_-K0oOGq9CVayHM",
   "uploaded": "2026-11-04",
   "size": 765515,
-  "status": "excluded",
+  "status": "ok_unused",
   "category": "food(전골 위 샤브 고기)",
-  "note": "당근 보임(2026-11-21 확인) — 사용 안 함"
+  "note": "당근 보임(2026-11-21 확인) — 사용 안 함 / 당근 사진 사용 허용(점주 2026-11-28) — 문구에 당근 언급 금지"
  },
  "1716016026487.jpg": {
   "id": "1FiVWNR-B2EPgBfqemPnKBmdrMsyGigsz",
@@ -1335,12 +1335,12 @@
   "id": "1ptTeJhYE1IB01knvekSrbwu5ToZ4JxyR",
   "uploaded": "2026-11-04",
   "size": 467095,
-  "status": "excluded",
+  "status": "used",
   "category": "food(전골 위 샤브 고기)",
   "used_on": [
    "2026-11-17"
   ],
-  "note": "당근 보임(2026-11-27 확인) — 재사용 금지"
+  "note": "당근 보임(2026-11-27 확인) — 재사용 금지 / 당근 사진 사용 허용(점주 2026-11-28) — 문구에 당근 언급 금지"
  },
  "IMG_20240518_162709_049.jpg": {
   "id": "1ip09fOZwWlsixPsqsxtfWdYRhSYQdNQX",
